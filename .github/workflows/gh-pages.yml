@@ -16,7 +16,7 @@ jobs:
           submodules: true # to fetch Hugo themes (true OR recursive)
           fetch-depth: 0 # fetch all history for .GitInfo and .Lasmod
       - name: Setup Hugo
-        uses: peaceiris/actions/hugo@v2
+        uses: peaceiris/actions-hugo@v2
         with:
           hugo-version: 'latest'
 
