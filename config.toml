@@ -1,6 +1,6 @@
 # baseURL = 'http://example.org/'
 # languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Packer experiment / notes'
 theme = 'hugo-geekdoc'
 
 # baseURL = "http://localhost"
@@ -28,4 +28,5 @@ enableRobotsTXT = true
     endLevel = 9
 
 [taxonomies]
-   tag = "tags"
+  tag = "tags"
+
