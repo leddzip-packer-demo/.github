@@ -3,7 +3,8 @@
 title = 'My New Hugo Site'
 theme = 'hugo-geekdoc'
 
-baseURL = "http://localhost"
+# baseURL = "http://localhost"
+baseURL = "https://leddzip-packer-demo.github.io"
 # title = "Geekdocs"
 # theme = "hugo-geekdoc"
 
